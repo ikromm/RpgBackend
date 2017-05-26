@@ -9,7 +9,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 02e4406be4017dd40ba5c859ae77a8bf, type: 3}
-  m_Name: JinxSettings
+  m_Name: GameSettings
   m_EditorClassIdentifier: 
   Database:
     Name: jinx3.s3db
